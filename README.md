@@ -23,13 +23,13 @@ This project is a Matrix-themed game created in Unreal Engine 5. It provides an 
 - Player speed increases over time.
 - Speed resets upon restart.
 
-## How to Play
+# How to Play
 - Avoid obstacles and enemies to survive.
 - Shoot projectiles at enemies to destroy them and gain points.
 - Collect health packs to restore health.
 - Survive as long as possible while navigating increasingly difficult tunnels.
 
-## Installation
+# Installation
 - Clone the repository
 - Open the project in Unreal Engine 5
 - Build and run the project
